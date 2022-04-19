@@ -1,0 +1,3 @@
+testing the hello world on odin project.
+seems cool tbh
+coolsies
